@@ -5,4 +5,4 @@
 
 1.0.1 - 01/10/2025
 
-- New: Fix composer package name.
+- Fix: Fix composer package name.
