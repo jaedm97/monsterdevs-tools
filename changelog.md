@@ -1,3 +1,3 @@
-v1.0.0
+1.0.0 - 01/11/2025
 
-- 01/11/2025: Initial Release
+- New: Initial Release
